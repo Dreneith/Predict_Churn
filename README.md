@@ -36,12 +36,9 @@ data visualizations report. the reports folder contains model roc curves. The re
 ## Running Files
 
 ### Install dependencies 
-'''
-python -m pip install -r project_requirements.txt
-'''
+> python -m pip install -r project_requirements.txt
 ### To run the entire workflow
-'''
-python churn_library.py
-'''
+> python churn_library.py
+
 
 
