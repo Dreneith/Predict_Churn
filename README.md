@@ -12,14 +12,14 @@ using python package to write project that follows coding (PEP8) and engineering
 ## Files and data description
 
   ### There are 4 main Folders
-> 'data': contains Credit card customers data from [kaggle](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers/code)
+> data: contains Credit card customers data from [kaggle](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers/code)
 
-> 'images': contains 3 subfolder. eda, reports and result. The eda folder contains exploratory 
+> images: contains 3 subfolder. eda, reports and result. The eda folder contains exploratory 
 data visualizations report. the reports folder contains model roc curves. The result folder contains model evaluation reports and Feature importance reports.
 
-> 'logs': contains function test on data_transform and feature_train module.
+> logs: contains function test on data_transform and feature_train module.
 
-> 'models': contains model details in .pkl file
+> models: contains model details in .pkl file
 
  ### There are Five main modules
 > Constants.py: contains variable  constants to save file paths
